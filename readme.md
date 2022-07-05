@@ -9,16 +9,20 @@
 ## Persiapan
  - Memiliki IDE, penulis menggunakan Intelij IDE
  - Melakukan instalasi Dependesi dibawah
- - Pastikan sudah melakukan instalasi JDK pada PC (di Rekomendasikan JDK 17)
+ - Pastikan sudah melakukan instalasi JDK pada PC (di Rekomendasikan JDK 1.8)
 
  ## Dependensi yang di Gunakan
-`JAVA 8` `MySQL`   `Maven` 
+`JAVA 8` `Postgres`   `Maven` 
 
 `Spring Tools 4` `Postman` `Swagger`
 
-`IDE (Tested in VSCode)`
+`IDE (Tested in Intelij IDE)`
 
 ## Langkah Penginstalan
 
+1. Clone Projek ini pada <a href="https://github.com/rezaa98/FinalProjectJavaSpringBoot"> Link Berikut</a>
+
+2. Mempersiapkan Database Postgres
+![Instalasi Katalon 1](https://docs.katalon.com/81d2ff80-e2f0-11ec-a2dc-0242fe3e4a3f.png?raw=true "Katalon Instalasi 1")
 
 
