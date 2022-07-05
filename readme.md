@@ -8,8 +8,17 @@
 
 ## Persiapan
  - Memiliki IDE, penulis menggunakan Intelij IDE
- - Melakukan instalasi Maven serta Springboot pada PC
+ - Melakukan instalasi Dependesi dibawah
  - Pastikan sudah melakukan instalasi JDK pada PC (di Rekomendasikan JDK 17)
+
+ ## Dependensi yang di Gunakan
+`JAVA 8` `MySQL`   `Maven` 
+
+`Spring Tools 4` `Postman` `Swagger`
+
+`IDE (Tested in VSCode)`
+
+## Langkah Penginstalan
 
 
 
