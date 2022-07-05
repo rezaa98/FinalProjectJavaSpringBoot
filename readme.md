@@ -10,6 +10,7 @@
  - Memiliki IDE, penulis menggunakan Intelij IDE
  - Melakukan instalasi Dependesi dibawah
  - Pastikan sudah melakukan instalasi JDK pada PC (di Rekomendasikan JDK 1.8)
+ - Jangan lupa untuk melakukan instalasi Postman untuk melakukan Test API
 
  ## Dependensi yang di Gunakan
 `JAVA 8` `Postgres`   `Maven` 
@@ -23,6 +24,6 @@
 1. Clone Projek ini pada <a href="https://github.com/rezaa98/FinalProjectJavaSpringBoot"> Link Berikut</a>
 
 2. Mempersiapkan Database Postgres
-![Instalasi Katalon 1](https://docs.katalon.com/81d2ff80-e2f0-11ec-a2dc-0242fe3e4a3f.png?raw=true "Katalon Instalasi 1")
+![ERD Postgres](https://github.com/rezaa98/FinalProjectJavaSpringBoot/blob/main/Dokumentasi/IMG/ERD.png "ERD Postgres")
 
 

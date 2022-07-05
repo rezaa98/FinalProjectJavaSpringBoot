@@ -92,7 +92,7 @@ public class UserController {
 	}
 
 	@PutMapping("")
-	@ApiOperation(value = "udpate user", authorizations = { @Authorization(value = "apiKey") })
+	@ApiOperation(value = "update user", authorizations = { @Authorization(value = "apiKey") })
 	@PreAuthorize("hasRole('ROLE_ADMIN') or hasRole('ROLE_USER')")
 	public ResponseEntity<?> updateUser(@Valid @RequestBody UserRequest userRequest) {
 
