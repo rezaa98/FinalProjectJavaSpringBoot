@@ -24,6 +24,6 @@
 1. Clone Projek ini pada <a href="https://github.com/rezaa98/FinalProjectJavaSpringBoot"> Link Berikut</a>
 
 2. Mempersiapkan Database Postgres
-![ERD Postgres](https://github.com/rezaa98/FinalProjectJavaSpringBoot/blob/main/Dokumentasi/IMG/ERD.png widht='500' "ERD Postgres")
+<img src="[https://raw.githubusercontent.com/jampirojam/PortfolioBlogger/master/assets/images/4b74bbf5197ab483c311f6cb078c3ddb.gif](https://github.com/rezaa98/FinalProjectJavaSpringBoot/blob/main/Dokumentasi/IMG/ERD.png)" width="450">
 
 
